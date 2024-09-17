@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <p align="left"> <span class="yellow">&nbsp;お隣の家が建て替え！</span></p>
-<p><a href="https://torokoid.github.io/2024Jul_tatekae/" target="_blank">建て替え_1</a>>建て替え_2</p>
+<p><a href="https://torokoid.github.io/2024Jul_tatekae/" target="_blank">建て替え_1</a>><a href="https://torokoid.github.io/2024Jul_tatekae2/" target="_blank">建て替え_2</a>>建て替え_3</p>
 
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
@@ -100,63 +100,46 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月26日、お隣の家が建て替えになりました !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2024年8月7日、更地になったお隣に新築のお家が立ちます !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
 
-<h3><span class="yellow"><br>～～～7月26日、お隣との境にある花壇の補強工事～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月23日、地鎮祭が執り行われました～～～<br><br></span></h3>
 
-<a href="20240726_007.JPG" data-lightbox="abc"><img src="20240726_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_008.JPG" data-lightbox="abc"><img src="20240726_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_001.JPG" data-lightbox="abc"><img src="20240726_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_002.JPG" data-lightbox="abc"><img src="20240726_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_003.JPG" data-lightbox="abc"><img src="20240726_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_004.JPG" data-lightbox="abc"><img src="20240726_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_005.JPG" data-lightbox="abc"><img src="20240726_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_006.JPG" data-lightbox="abc"><img src="20240726_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_001.JPG" target="_blank"><img src="20240823_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240823_002.JPG" target="_blank"><img src="20240823_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月26日午後の作業で、花壇が一段引っ込んでブロックのスペースが出来ました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月24日、ボーリングした穴にセメントを流し込んで、しっかりした杭が完成～～～<br><br></span></h3>
 
-<a href="20240726_009.JPG" data-lightbox="abc"><img src="20240726_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_010.JPG" data-lightbox="abc"><img src="20240726_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_011.JPG" data-lightbox="abc"><img src="20240726_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240824_001.JPG" target="_blank"><img src="20240824_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240824_002.JPG" target="_blank"><img src="20240824_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240824_003.JPG" target="_blank"><img src="20240824_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240824_004.JPG" target="_blank"><img src="20240824_004.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月27日、ブロックが積み上がり始めました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月28日、工事のための電力確保～～～<br><br></span></h3>
 
-<a href="20240727_101.JPG" data-lightbox="abc"><img src="20240727_101.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_102.JPG" data-lightbox="abc"><img src="20240727_102.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_103.JPG" data-lightbox="abc"><img src="20240727_103.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_104.JPG" data-lightbox="abc"><img src="20240727_104.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_105.JPG" data-lightbox="abc"><img src="20240727_105.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_106.JPG" data-lightbox="abc"><img src="20240727_106.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_107.JPG" data-lightbox="abc"><img src="20240727_107.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_108.JPG" data-lightbox="abc"><img src="20240727_108.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240828_001.JPG" target="_blank"><img src="20240828_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月28日、ブロック積み上げ完了、天板のコンクリート詰め残り部分は31日に実施予定～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月10日、杭の上にコンクリートの基礎作り～～～<br><br></span></h3>
 
-<a href="20240727_109.JPG" data-lightbox="abc"><img src="20240727_109.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_110.JPG" data-lightbox="abc"><img src="20240727_110.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_111.JPG" data-lightbox="abc"><img src="20240727_111.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_112.JPG" data-lightbox="abc"><img src="20240727_112.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_113.JPG" data-lightbox="abc"><img src="20240727_113.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_114.JPG" data-lightbox="abc"><img src="20240727_114.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_115.JPG" data-lightbox="abc"><img src="20240727_115.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_116.JPG" data-lightbox="abc"><img src="20240727_116.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_117.JPG" data-lightbox="abc"><img src="20240727_117.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_118.JPG" data-lightbox="abc"><img src="20240727_118.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240727_119.JPG" data-lightbox="abc"><img src="20240727_119.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240910_001.JPG" target="_blank"><img src="20240910_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240910_002.JPG" target="_blank"><img src="20240910_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240910_003.JPG" target="_blank"><img src="20240910_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月31日、花壇を支えるブロック塀が完成～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月14日、夕方の雷雨に備えてブルーシートが張られました～～～<br><br></span></h3>
 
-<a href="20240731_101.JPG" data-lightbox="abc"><img src="20240731_101.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240731_102.JPG" data-lightbox="abc"><img src="20240731_102.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240731_103.JPG" data-lightbox="abc"><img src="20240731_103.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240914_001.JPG" target="_blank"><img src="20240914_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240914_002.JPG" target="_blank"><img src="20240914_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240914_003.JPG" target="_blank"><img src="20240914_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～9月17日、基礎工事がほぼ完成～～～<br><br></span></h3>
+
+<a href="20240917_001.JPG" target="_blank"><img src="20240917_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240917_002.JPG" target="_blank"><img src="20240917_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240917_003.JPG" target="_blank"><img src="20240917_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
-<h3><span class="yellow"><br>～～～7月22日、解体作業もほぼ終盤です～～～<br><br></span></h3>
-
-
 <h3><span class="yellow"><br>～～～7月23日、花壇を支える大谷石の塀を撤去します<br>花壇の土が固まってていい具合に残ってますね～～～<br><br></span></h3>
 
 
