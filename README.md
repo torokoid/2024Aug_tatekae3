@@ -139,7 +139,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240917_002.JPG" target="_blank"><img src="20240917_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240917_003.JPG" target="_blank"><img src="20240917_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月19日、コンクリートで嵩上げ、土間エリア？～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月19日、コンクリートでかさ上げ、土間エリア？～～～<br><br></span></h3>
 
 <a href="20240919_001.JPG" target="_blank"><img src="20240919_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240919_002.JPG" target="_blank"><img src="20240919_002.JPG" alt="サンプル画像" width="900" /></a>
