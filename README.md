@@ -157,12 +157,12 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240925_004.JPG" target="_blank"><img src="20240925_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_005.JPG" target="_blank"><img src="20240925_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月26日、夕方の時点で積み上がっていた木材はほぼ組まれた様です～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月26日、夕方の時点で積み上がっていた木材はほぼ組み込まれた様です～～～<br><br></span></h3>
 
 <a href="20240925_006.JPG" target="_blank"><img src="20240925_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_007.JPG" target="_blank"><img src="20240925_007.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月26日、ふと気づくと出入り口監視用のカメラがセットしてありました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ふと気づくと出入り口監視用のカメラがセットしてありました～～～<br><br></span></h3>
 
 <a href="20240925_008.JPG" target="_blank"><img src="20240925_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_009.JPG" target="_blank"><img src="20240925_009.JPG" alt="サンプル画像" width="900" /></a>
