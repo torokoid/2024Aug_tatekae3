@@ -145,10 +145,16 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240919_002.JPG" target="_blank"><img src="20240919_002.JPG" alt="サンプル画像" width="900" /></a>
 
 
+
+<h3><span class="yellow"><br>～～～9月25日、基礎の上に木枠の設置作業、この作業一人で黙々と実施してます～～～<br><br></span></h3>
+
+<a href="20240925_001.JPG" target="_blank"><img src="20240925_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240925_002.JPG" target="_blank"><img src="20240925_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240925_003.JPG" target="_blank"><img src="20240925_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240925_004.JPG" target="_blank"><img src="20240925_004.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <!--
-<h3><span class="yellow"><br>～～～7月23日、花壇を支える大谷石の塀を撤去します<br>花壇の土が固まってていい具合に残ってますね～～～<br><br></span></h3>
-
-
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
 
