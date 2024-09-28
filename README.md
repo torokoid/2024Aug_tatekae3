@@ -105,59 +105,59 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="yellow"><br>～～～8月23日、地鎮祭が執り行われました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月23日(金)、地鎮祭が執り行われました～～～<br><br></span></h3>
 
 <a href="20240823_001.JPG" target="_blank"><img src="20240823_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240823_002.JPG" target="_blank"><img src="20240823_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～8月24日、ボーリングした穴にセメントを流し込んで、しっかりした杭が完成～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月24日(土)、ボーリングした穴にセメントを流し込んで、しっかりした杭が完成～～～<br><br></span></h3>
 
 <a href="20240824_001.JPG" target="_blank"><img src="20240824_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240824_002.JPG" target="_blank"><img src="20240824_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240824_003.JPG" target="_blank"><img src="20240824_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240824_004.JPG" target="_blank"><img src="20240824_004.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～8月28日、工事のための電力確保～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～8月28日(水)、工事のための電力確保～～～<br><br></span></h3>
 
 <a href="20240828_001.JPG" target="_blank"><img src="20240828_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月10日、杭の上にコンクリートの基礎作り～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月10日(火)、杭の上にコンクリートの基礎作り～～～<br><br></span></h3>
 
 <a href="20240910_001.JPG" target="_blank"><img src="20240910_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240910_002.JPG" target="_blank"><img src="20240910_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240910_003.JPG" target="_blank"><img src="20240910_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月14日、夕方の雷雨に備えてブルーシートが張られました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月14日(土)、夕方の雷雨に備えてブルーシートが張られました～～～<br><br></span></h3>
 
 <a href="20240914_001.JPG" target="_blank"><img src="20240914_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240914_002.JPG" target="_blank"><img src="20240914_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240914_003.JPG" target="_blank"><img src="20240914_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月17日、基礎工事がほぼ完成～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月17日(火)、基礎工事がほぼ完成～～～<br><br></span></h3>
 
 <a href="20240917_001.JPG" target="_blank"><img src="20240917_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240917_002.JPG" target="_blank"><img src="20240917_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240917_003.JPG" target="_blank"><img src="20240917_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月19日、コンクリートでかさ上げ、土間エリア？～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月19日(木)、コンクリートでかさ上げ、土間エリア？～～～<br><br></span></h3>
 
 <a href="20240919_001.JPG" target="_blank"><img src="20240919_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240919_002.JPG" target="_blank"><img src="20240919_002.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
-<h3><span class="yellow"><br>～～～9月25日、基礎の上に木枠の設置作業、この作業一人で黙々と実施してます～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月25日(水)、基礎の上に木枠の設置作業、この作業一人で黙々と実施してます～～～<br><br></span></h3>
 
 <a href="20240925_001.JPG" target="_blank"><img src="20240925_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_002.JPG" target="_blank"><img src="20240925_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月26日、朝の状態。この日はメンバー増強されて2人で作業となりました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月26日(木)、朝の状態。この日はメンバー増強されて2人で作業となりました～～～<br><br></span></h3>
 
 <a href="20240925_003.JPG" target="_blank"><img src="20240925_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_004.JPG" target="_blank"><img src="20240925_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_005.JPG" target="_blank"><img src="20240925_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月26日、夕方の時点で積み上がっていた木材はほぼ組み込まれた様です～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月26日(木)、夕方の時点で積み上がっていた木材はほぼ組み込まれた様です～～～<br><br></span></h3>
 
 <a href="20240925_006.JPG" target="_blank"><img src="20240925_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_007.JPG" target="_blank"><img src="20240925_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -167,7 +167,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240925_008.JPG" target="_blank"><img src="20240925_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240925_009.JPG" target="_blank"><img src="20240925_009.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～9月27日、上棟のご挨拶いただきました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月27日(金)、上棟のご挨拶いただきました～～～<br><br></span></h3>
 
 <a href="20240925_010.JPG" target="_blank"><img src="20240925_010.JPG" alt="サンプル画像" width="900" /></a>
 
