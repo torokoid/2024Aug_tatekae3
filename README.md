@@ -171,12 +171,12 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20240925_010.JPG" target="_blank"><img src="20240925_010.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～8月28日、朝一で棟上用の木材が搬入されました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～9月28日(土)、朝一で棟上用の木材が搬入されました～～～<br><br></span></h3>
 
-<a href="20240828_001.JPG" target="_blank"><img src="20240828_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240828_002.JPG" target="_blank"><img src="20240828_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240828_003.JPG" target="_blank"><img src="20240828_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240828_004.JPG" target="_blank"><img src="20240828_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240928_001.JPG" target="_blank"><img src="20240928_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240928_002.JPG" target="_blank"><img src="20240928_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240928_003.JPG" target="_blank"><img src="20240928_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240928_004.JPG" target="_blank"><img src="20240928_004.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <!--
