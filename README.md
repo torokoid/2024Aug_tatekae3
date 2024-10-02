@@ -194,6 +194,16 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241002_001.JPG" target="_blank"><img src="20241002_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241002_002.JPG" target="_blank"><img src="20241002_002.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～10月2日(水)、真っ暗になるまで作業して、あっという間にここまでできました（翌朝撮影）～～～<br><br></span></h3>
+
+<a href="20241003_001.JPG" target="_blank"><img src="20241003_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241003_002.JPG" target="_blank"><img src="20241003_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241003_003.JPG" target="_blank"><img src="20241003_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～10月3日(木)、朝から続きの作業です～～～<br><br></span></h3>
+
+<a href="20241003_004.JPG" target="_blank"><img src="20241003_004.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
