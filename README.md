@@ -204,7 +204,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20241003_004.JPG" target="_blank"><img src="20241003_004.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～10月3日(水)、真っ暗になるまで作業して、屋根と骨組みはかなりできています（翌朝撮影）～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～10月3日(木)、真っ暗になるまで作業して、屋根と骨組みはかなりできています（翌朝撮影）～～～<br><br></span></h3>
 
 <a href="20241004_001.JPG" target="_blank"><img src="20241004_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_002.JPG" target="_blank"><img src="20241004_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -214,6 +214,13 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20241004_004.JPG" target="_blank"><img src="20241004_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_005.JPG" target="_blank"><img src="20241004_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～10月4日(金)、外側の作業はかなり進んで、内装の作業に移行しています（翌朝撮影）～～～<br><br></span></h3>
+
+<a href="20241004_006.JPG" target="_blank"><img src="20241004_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241004_007.JPG" target="_blank"><img src="20241004_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241004_008.JPG" target="_blank"><img src="20241004_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241004_009.JPG" target="_blank"><img src="20241004_009.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
