@@ -215,6 +215,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241004_004.JPG" target="_blank"><img src="20241004_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_005.JPG" target="_blank"><img src="20241004_005.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～10月4日(金)、視点を変えて南側から撮影、西側のお宅は断熱材の設置が終わってます～～～<br><br></span></h3>
+
+<a href="20241004_010.JPG" target="_blank"><img src="20241004_010.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>～～～10月4日(金)、外側の作業はかなり進んで、内装の作業に移行しています（翌朝撮影）～～～<br><br></span></h3>
 
 <a href="20241004_006.JPG" target="_blank"><img src="20241004_006.JPG" alt="サンプル画像" width="900" /></a>
