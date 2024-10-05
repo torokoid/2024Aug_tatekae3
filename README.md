@@ -226,6 +226,13 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241004_008.JPG" target="_blank"><img src="20241004_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241004_009.JPG" target="_blank"><img src="20241004_009.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～10月5日(土)、小雨がぱらつく中での高所作業で、外壁に断熱材が設置されました～～～<br><br></span></h3>
+
+<a href="20241005_001.JPG" target="_blank"><img src="20241005_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241005_002.JPG" target="_blank"><img src="20241005_002.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="yellow"><br>～～～西隣のお宅とは、断熱材の種類が違うようです～～～<br><br></span></h3>
+<a href="20241005_003.JPG" target="_blank"><img src="20241005_003.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
