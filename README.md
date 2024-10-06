@@ -234,7 +234,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～西隣のお宅とは、断熱材の種類が違うようです～～～<br><br></span></h3>
 <a href="20241005_003.JPG" target="_blank"><img src="20241005_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～10月6日(日)、ふと気づくと足場にそれぞれの建設会社の垂れ幕が設置されていました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～10月6日(日)、ふと気づくとそれぞれの足場に建設会社の垂れ幕が設置されていました～～～<br><br></span></h3>
 
 <a href="20241006_001.JPG" target="_blank"><img src="20241006_001.JPG" alt="サンプル画像" width="900" /></a>
 
