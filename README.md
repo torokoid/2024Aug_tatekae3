@@ -238,6 +238,12 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20241006_001.JPG" target="_blank"><img src="20241006_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～10月9日(水)、壁に断熱材が施されて、全面銀色になりました～～～<br><br></span></h3>
+
+<a href="20241009_001.JPG" target="_blank"><img src="20241009_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241009_002.JPG" target="_blank"><img src="20241009_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241009_003.JPG" target="_blank"><img src="20241009_003.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
