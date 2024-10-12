@@ -252,8 +252,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～10月11日(金)、窓ガラスがハマりました、夕焼けがガラスに反射して綺麗です～～～<br><br></span></h3>
 <a href="20241011_001.JPG" target="_blank"><img src="20241011_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～10月12日(土)、内装作業が主になり、外観の変化は分かりませ。<br>&emsp;&emsp;&emsp;シルバーの断熱材はかなりスペシャルとのことでした～～～<br><br></span></h3>
-<a href="20241012_001.JPG" target="_blank"><img src="20241012_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="yellow"><br>～～～10月12日(土)、内装作業が主になり、外観の変化は分かりませ。<br>&emsp;&emsp;&emsp;作業してる方に聞くと、シルバーの断熱材はこの業者さんスペシャルとのことでした～～～<br><br></span></h3>
+<a href="20241012_002.JPG" target="_blank"><img src="20241012_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
