@@ -252,7 +252,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～10月11日(金)、窓ガラスがハマりました、夕焼けがガラスに反射して綺麗です～～～<br><br></span></h3>
 <a href="20241011_001.JPG" target="_blank"><img src="20241011_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～10月12日(土)、内装作業が主になり、外観の変化は分かりませ。シルバーの断熱材はかなりスペシャルとのことでした～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～10月12日(土)、内装作業が主になり、外観の変化は分かりませ。<br>   シルバーの断熱材はかなりスペシャルとのことでした～～～<br><br></span></h3>
 <a href="20241012_001.JPG" target="_blank"><img src="20241012_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
