@@ -259,6 +259,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～10月14日(月)、外観の変化は分かりませんが、内装用の資材が積み上げられています～～～<br><br></span></h3>
 <a href="20241014_202.JPG" target="_blank"><img src="20241014_202.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～10月21日(月)、屋根の設置が始まっています～～～<br><br></span></h3>
+<a href="20241021_001.JPG" target="_blank"><img src="20241021_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241021_002.JPG" target="_blank"><img src="20241021_002.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
