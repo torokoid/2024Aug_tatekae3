@@ -284,6 +284,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241116_001.JPG" target="_blank"><img src="20241116_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241116_002.JPG" target="_blank"><img src="20241116_002.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～11月20日(水)、外壁の設置が進行中、あと2~3日で全部貼られるとのことでした～～～<br><br></span></h3>
+
+<a href="20241120_001.JPG" target="_blank"><img src="20241120_001.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
