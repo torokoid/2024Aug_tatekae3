@@ -293,7 +293,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241129_001.JPG" target="_blank"><img src="20241129_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_002.JPG" target="_blank"><img src="20241129_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<br><br>
+<br><br><br><br><br><br><br><br>
 <h3><span class="yellow"><br>HP更新作業はこれにて一旦ひと段落とさせて頂きます。<br>実は今回のHP更新はタイのチェンライから、か細いネットで実施しました。<br>写真は娘が撮影してLINE共有されたものを使っています。<br><br></span></h3>
 
 <a href="http://torokoid.github.io/20241122_chiangrai/20241122_001.png" target="_blank"><img src="http://torokoid.github.io/20241122_chiangrai/20241122_001.png" alt="サンプル画像" width="900" /></a>
