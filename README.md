@@ -288,6 +288,11 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="20241120_001.JPG" target="_blank"><img src="20241120_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～11月29日(金)、外壁が全部貼られて、足場も撤去されました～～～<br><br></span></h3>
+
+<a href="20241129_001.JPG" target="_blank"><img src="20241129_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241129_002.JPG" target="_blank"><img src="20241129_002.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 
