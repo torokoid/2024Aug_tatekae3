@@ -293,10 +293,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20241129_001.JPG" target="_blank"><img src="20241129_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241129_002.JPG" target="_blank"><img src="20241129_002.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
+<h3><span class="yellow"><br>HP更新作業はこれにて一旦ひと段落とさせて頂きます。<br>実は今回の更新もタイのチェンライから、か細いネットで実施しました。<br>写真は娘の撮影です。<br><br></span></h3>
+
 <!--
-<h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
-
-
 <h3><span class="yellow"><br>～～～7月24日、レンガとコンクリートが剥がされて、地面だけになりました～～～<br><br></span></h3>
 
 
