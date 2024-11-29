@@ -296,7 +296,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <br><br>
 <h3><span class="yellow"><br>HP更新作業はこれにて一旦ひと段落とさせて頂きます。<br>実は今回の更新もタイのチェンライから、か細いネットで実施しました。<br>写真は娘の撮影です。<br><br></span></h3>
 
-<a href="http://torokoid.github.io/20241122_chiengrai/20241122_001.png" target="_blank"><img src="http://torokoid.github.io/20241122_chiengrai/20241122_001.png" alt="サンプル画像" width="900" /></a>
+<a href="http://github.com/torokoid/20241122_chiengrai/20241122_001.png" target="_blank"><img src="http://torokoid.github.com/torokoid/20241122_chiengrai/20241122_001.png" alt="サンプル画像" width="900" /></a>
 
 <!--
 <h3><span class="yellow"><br>～～～7月24日、レンガとコンクリートが剥がされて、地面だけになりました～～～<br><br></span></h3>
